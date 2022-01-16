@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67c8fa32-b748-46b4-b81a-ad4306771bf5": {
+      "ProjectGuid": "67c8fa32-b748-46b4-b81a-ad4306771bf5",
+      "DisplayName": "GPAxCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
